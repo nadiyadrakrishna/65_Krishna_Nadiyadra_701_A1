@@ -10,7 +10,7 @@
 
 ```bash
 npm install pin2city-india
-
+---
 
 Convert any **Indian PIN code** (e.g., `395006`) into the corresponding **office**, **district**, and **state** — completely **offline** using a local JSON database.
 
