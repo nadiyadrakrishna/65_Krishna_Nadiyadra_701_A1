@@ -1,0 +1,17 @@
+{
+  "name": "q8_package_scripts",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+  "start": "node server.js",
+  "test": "echo \"Running tests...\"",
+  "hello": "echo Hello from script!",
+  "greet": "node greet.js",
+  "runfile": "node customscript.js"
+}
+,
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

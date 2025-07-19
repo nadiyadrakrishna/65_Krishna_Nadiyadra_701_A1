@@ -1,0 +1,29 @@
+{
+  "name": "pin2city-india",
+  "version": "1.0.1",
+  "description": "Offline utility to map Indian PIN code to city, district, and state.",
+  "main": "index.js",
+  "author": "Krishna Nadiyadra",
+  "license": "MIT",
+  "keywords": [
+    "india",
+    "pincode",
+    "pin",
+    "location",
+    "offline",
+    "city",
+    "district",
+    "state"
+  ],
+  "files": [
+    "index.js",
+    "indian_pin_to_city.json",
+    "test.js"
+  ],
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "archiver": "^7.0.1"
+  }
+}
