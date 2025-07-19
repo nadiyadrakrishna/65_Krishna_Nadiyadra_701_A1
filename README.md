@@ -8,17 +8,13 @@
 
 ## 🔧 Installation
 
-```bash
-npm install pin2city-india
----
-
 Convert any **Indian PIN code** (e.g., `395006`) into the corresponding **office**, **district**, and **state** — completely **offline** using a local JSON database.
 
 ## 📦 Installation
 
 ```bash
-npm install indian-pin-to-city
-```
+npm install pin2city-india
+---
 
 ## 🔍 Usage
 
@@ -56,7 +52,7 @@ console.log(result);
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/indian-pin-to-city.git
+git clone https://github.com/nadiyadrakrishna/indian-pin-to-city.git
 cd indian-pin-to-city
 npm install
 node test.js
