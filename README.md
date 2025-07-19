@@ -1,4 +1,16 @@
-# 🇮🇳 indian-pin-to-city
+# 🇮🇳 pin2city-india
+
+[![npm version](https://img.shields.io/npm/v/pin2city-india.svg)](https://www.npmjs.com/package/pin2city-india)
+[![npm downloads](https://img.shields.io/npm/dt/pin2city-india.svg)](https://www.npmjs.com/package/pin2city-india)
+[![license](https://img.shields.io/npm/l/pin2city-india.svg)](LICENSE)
+
+---
+
+## 🔧 Installation
+
+```bash
+npm install pin2city-india
+
 
 Convert any **Indian PIN code** (e.g., `395006`) into the corresponding **office**, **district**, and **state** — completely **offline** using a local JSON database.
 
@@ -52,8 +64,11 @@ node test.js
 
 ## 👨‍💻 Author
 
-**Krishna Nadiyadra**  
+👤 Author:**Krishna Nadiyadra**  
 🎓 Assignment: `65_Krishna_Nadiyadra_701_A1`
+🔗 View on NPM: https://www.npmjs.com/package/pin2city-india 
+🧑‍💻 NPM Profile: https://www.npmjs.com/~krishna_nadiyadra 
+🪪 License: MIT
 
 ---
 
