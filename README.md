@@ -68,8 +68,6 @@ node test.js
 
 🧑‍💻 NPM Profile: https://www.npmjs.com/~krishna_nadiyadra 
 
-🪪 License: MIT
-
 ---
 
 ## 🌐 License
