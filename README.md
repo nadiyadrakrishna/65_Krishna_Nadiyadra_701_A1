@@ -61,9 +61,13 @@ node test.js
 ## 👨‍💻 Author
 
 👤 Author:**Krishna Nadiyadra**  
+
 🎓 Assignment: `65_Krishna_Nadiyadra_701_A1`
+
 🔗 View on NPM: https://www.npmjs.com/package/pin2city-india 
+
 🧑‍💻 NPM Profile: https://www.npmjs.com/~krishna_nadiyadra 
+
 🪪 License: MIT
 
 ---
